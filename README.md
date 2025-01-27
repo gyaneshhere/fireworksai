@@ -1,3 +1,3 @@
 # fireworksai
 
-Function Calling using Small Lamguage Models
+Function Calling using Small Language Models
